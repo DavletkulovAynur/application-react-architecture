@@ -1,0 +1,21 @@
+.Nav {
+  //background: #efefef;
+  padding: 12px;
+  //position: fixed;
+  width: 100%;
+
+  .links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .link {
+      margin: 0 12px;
+      text-transform: uppercase;
+    }
+
+    .logo {
+      width: 40px;
+    }
+  }
+}

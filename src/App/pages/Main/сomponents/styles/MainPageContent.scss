@@ -1,0 +1,15 @@
+.Main-page-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+
+  .title-wrapper {
+    .title {
+      margin: 0;
+      text-transform: uppercase;
+      font-size: 36px;
+    }
+  }
+
+}
